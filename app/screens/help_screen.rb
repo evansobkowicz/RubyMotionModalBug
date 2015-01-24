@@ -1,6 +1,6 @@
 class HelpScreen < PM::TableScreen
 
-  include Orientation
+  # include Orientation
 
   title "Modal - Help"
 
